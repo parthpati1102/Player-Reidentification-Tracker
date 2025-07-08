@@ -1,0 +1,13 @@
+# Virtual Environment - Never push this
+venv/
+
+#  Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+#  Large model and video files (hosted via Google Drive instead)
+models/
+*.pt
+input_videos/
+*.mp4
